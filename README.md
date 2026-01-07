@@ -3,7 +3,7 @@ FlexiMart Data Architecture Project ;
 Student Name: Nunna Rama Charan
 Student ID: bitsom_ba_2507521
 Email: nunnaramacharan@gmail.com
-Course: Business Analytics with Gen & Agentic AI
+Course: Business Analytics with Gen & Agentic AI |
 Submission Date: 07-01-2026.
 
 Project Overview
