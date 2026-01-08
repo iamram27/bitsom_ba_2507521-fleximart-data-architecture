@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 # DATABASE CONNECTION
 # ============================
 engine = create_engine(
-    "mysql+pymysql://root:Ramacharan_1816@localhost/fleximart"
+    "mysql+pymysql://root:Ramacharan@localhost/fleximart"
 )
 
 # ============================
@@ -83,6 +83,7 @@ with open("data_quality_report.txt", "w") as f:
 
 print("✅ ETL Pipeline Executed Successfully")
 print("📄 Data Quality Report Generated")
+
 
 
 
